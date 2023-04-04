@@ -22,5 +22,18 @@
 ### Problem 1 - Parenthesis Checker 
 <img src='./Day-4.png'>
 
+## Day 5 : 
+### Problem 1 - Reverse String 
+<img src='./Day-5-P1.png'>
+
+### Problem 2 - Palindrome String 
+<img src='./Day-5-P2.png'>
+
+## Day 6 : 
+### Problem 1 - Common Element 
+<img src='./Day-6-P1.png'>
+
+### Problem 2 - Divisibility By 11
+<img src='./Day-6-P2.png'>
 
 
