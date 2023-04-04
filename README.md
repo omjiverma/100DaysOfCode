@@ -1,5 +1,5 @@
 # 100DaysOfCode
-100 Day Coding Challenge Geeks For Geeks
+100 Days Coding Challenge GeeksForGeeks
 
 ## Day 1 : Minimum Integer 
 <img src='./Day-1.png' alt='Minimum Integer'>
