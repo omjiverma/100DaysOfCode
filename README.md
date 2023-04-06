@@ -37,3 +37,12 @@
 <img src='./Day-6-P2.png'>
 
 
+## Day 7 : 
+### Problem 1 - Union of Two array
+<img src='./Day-7-P1.png'>
+
+### Problem 2 - Power of two
+<img src='./Day-7-P2.png'>
+
+### Problem 3 - Search an element in an array
+<img src='./Day-7-P3.png'>
