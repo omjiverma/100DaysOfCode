@@ -46,3 +46,13 @@
 
 ### Problem 3 - Search an element in an array
 <img src='./Day-7-P3.png'>
+
+## Day 8 : 
+### Problem 1 - Find minimum and maximum element in an array
+<img src='./Day-8-P1.png'>
+
+### Problem 2 - Value equal to index value
+<img src='./Day-8-P2.png'>
+
+### Problem 3 - Cyclically rotate an array by one
+<img src='./Day-8-P3.png'>
