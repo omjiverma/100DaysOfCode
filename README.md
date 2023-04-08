@@ -56,3 +56,7 @@
 
 ### Problem 3 - Cyclically rotate an array by one
 <img src='./Day-8-P3.png'>
+
+## Day 8 : 
+### Problem 1 - Maximize sum(arr[i]*i) of an Array
+<img src='./Day-9-P3.png'>
