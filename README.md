@@ -58,7 +58,7 @@
 <img src='./Day-8-P3.png'>
 
 ## Day 9 : 
-### Problem 1 - Maximize sum(arr[i]*i) of an Array
+### Problem 1 - Implement queue using array
 <img src='./Day-9-P3.png'>
 
 ## Day 10 : 
