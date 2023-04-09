@@ -60,3 +60,7 @@
 ## Day 9 : 
 ### Problem 1 - Maximize sum(arr[i]*i) of an Array
 <img src='./Day-9-P3.png'>
+
+## Day 10 : 
+### Problem 1 - First and last occurence of x
+<img src='./Day-10-P1.png'>
