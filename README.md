@@ -65,6 +65,6 @@
 ### Problem 1 - First and last occurence of x
 <img src='./Day-10-P1.png'>
 
-## Day 10 : 
+## Day 11 : 
 ### Problem 1 - Implement Stack using array
 <img src='./Day-11.png'>
