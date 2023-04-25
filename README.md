@@ -69,6 +69,6 @@
 ### Problem 1 - Implement Stack using array
 <img src='./Day-11.png'>
 
-## Day 12 : Palindromic Array
-### Problem 1 - Implement Stack using array
+## Day 12 : 
+### Problem 1 - Palindromic Array
 <img src='./Day-12.png'>
