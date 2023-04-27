@@ -72,3 +72,7 @@
 ## Day 12 : 
 ### Problem 1 - Palindromic Array
 <img src='./Day-12.png'>
+
+## Day 13 : 
+### Problem 1 - Maximize sum(arr[i]*i) of an Array
+<img src='./Day-13.png'>
