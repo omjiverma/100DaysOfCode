@@ -76,3 +76,7 @@
 ## Day 13 : 
 ### Problem 1 - Maximize sum(arr[i]*i) of an Array
 <img src='./Day-13.png'>
+
+## Day 14 : 
+### Problem 1 -  Continuous subarray which adds up to given sum
+<img src='./Day-14.png'>
