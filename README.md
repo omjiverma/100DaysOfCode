@@ -83,4 +83,8 @@
 
 ## Day 15 : 
 ### Problem 1 -  Majority Elements
-<img src='./Day-1.png'>
+<img src='./Day-15.png'>
+
+## Day 16 : 
+### Problem 1 -  Kadane's Algorithm
+<img src='./day-16.png'>
