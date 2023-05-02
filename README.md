@@ -88,3 +88,11 @@
 ## Day 16 : 
 ### Problem 1 -  Kadane's Algorithm
 <img src='./day-16.png'>
+
+## Day 17 : 
+### Problem 1 -  Kth Smallest Number
+<img src='./Day-17.png'>
+
+## Day 18 : 
+### Problem 1 -  Find Missing And Repeating
+<img src='./Day-18.png'>
