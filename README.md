@@ -96,3 +96,13 @@
 ## Day 18 : 
 ### Problem 1 -  Find Missing And Repeating
 <img src='./Day-18.png'>
+
+
+## Day 19 : 
+### Problem 1 -  Second Largest
+<img src='./Day-19.png'>
+
+
+## Day 20 : 
+### Problem 1 -  Check if two array are equal
+<img src='./Day-20.png'>
